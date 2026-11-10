@@ -1,1 +1,2 @@
-# RNA-e-Deep-Learning---CESAR-School-2026.01-A
+# Nome: Taisa Tavares Cruz
+# Email: ttc@cesar.school
